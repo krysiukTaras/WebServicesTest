@@ -1,6 +1,6 @@
-package bo;
+package bo.rest;
 
-import model.Result;
+import bo.Serializer;
 import org.apache.commons.io.IOUtils;
 import org.testng.SkipException;
 

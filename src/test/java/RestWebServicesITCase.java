@@ -1,4 +1,4 @@
-import bo.CalculatorRest;
+import bo.rest.CalculatorRest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
